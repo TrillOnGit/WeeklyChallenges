@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+QzrQ06oj+JpF8eVrIJMVaCm86+25cxLd2MqRq62HuAf0qIZ4oRnovYatPU9dzDgqSLmnbkwiTJ/jFoL92I4zg==",
+  "dgSpecHash": "0LuClsIiT3lVY7bFeyIXR2SG3GxwzM8woVipBCCzfVWp3QvCV5719WcRVwisikeDxTIdy1PI2TV21KK89Bwa4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amori\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/trillion/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+  "expectedPackageFiles": [
+    "/home/trillion/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.18/microsoft.netcore.app.host.linux-x64.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
