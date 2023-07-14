@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace ChallengesWithTestsMark8
 {
@@ -17,7 +18,7 @@ namespace ChallengesWithTestsMark8
 
         public bool IsAscendingOrder(int[] numbers)
         {
-            throw new NotImplementedException();
+            return Equals(numbers, numbers.OrderBy(x => x));
         }
 
         public int SumElementsThatFollowAnEven(int[] numbers)
