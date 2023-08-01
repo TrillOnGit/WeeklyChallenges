@@ -108,7 +108,7 @@ namespace ChallengesWithTestsMark8.Tests
         [InlineData(new int[] { 0, 1, 0 }, 1)]
         [InlineData(new int[] { }, 0)]
         [InlineData(null, 0)]
-        public void SumElementsThaFollowAnEven(int[] numbers, int expected)
+        public void SumElementsThatFollowAnEven(int[] numbers, int expected)
         {
             // Arrange
             ChallengesSet05 challenger = new ChallengesSet05();
